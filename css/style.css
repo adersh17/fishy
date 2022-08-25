@@ -123,4 +123,8 @@ h6{
     
 }
 
-
+@media(max-width:800){
+    .sld{
+        height: auto;
+    }
+}
